@@ -1,2 +1,2 @@
-GIt is a version control sysytem
+GIt is aversion control sysytem
 Git is free software
